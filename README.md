@@ -1,6 +1,6 @@
 # 📈 Live Implied Volatility 3D Surface
 
-A **Streamlit** web application that dynamically fetches options market data, calculates **implied volatility** using the **Black-Scholes model**, and visualizes the **3D surface of implied volatility** and its corresponding Greeks (**Delta, Gamma, Vega, Theta, and Rho**).
+This repository contains the code of a **Streamlit** web application that dynamically fetches options market data, calculates **implied volatility** using the **Black-Scholes model**, and visualizes the **3D surface of implied volatility** and its corresponding Greeks (**Delta, Gamma, Vega, Theta, and Rho**).
 
 ## 🚀 Features
 
