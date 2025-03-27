@@ -16,7 +16,7 @@ This repository contains the code of a **Streamlit** web application that dynami
 
 ## 🛠️ Access the Application
 
-🚀 **Try it live**: [Implied Volatility & Greeks Surfaces](https://impliedvolatilityandgreekssurfacesfromblackscolesmodel.streamlit.app/)
+🚀 **Try it live**: [Implied Volatility & Greeks Surfaces](https://implied-volatility-dynamic-3d-surface.streamlit.app/)
 
 No installation required! Simply visit the link and explore the **live implied volatility surface and Greeks visualization** directly in your browser.
 
